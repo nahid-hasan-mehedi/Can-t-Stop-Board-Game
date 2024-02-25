@@ -1,0 +1,27 @@
+How to Run the Game via JAR file:
+
+1) Navigate into the Can't Stop Game Folder.
+
+2) Open Can't Stop Game.JAR file.
+
+3) Enjoy the Game!
+
+NOTE: MAKE SURE THE IMAGES (.png) ARE INSIDE THE GAME FOLDER.
+
+How to run from a shell window:
+
+1) Open the console (terminal, command.exe, whatever)
+
+2) Navigate to inside of the Can't Stop Game Folder by using commands like "CD.." to go backwards or "CD\Can't Stop Game"
+
+3) Compile the code by using the command "javac *.java" in cmd or any other terminal
+
+4) Run the code by using the command "java Driver"
+
+5) Don't forget, if you edit the code then recompile it before running.
+
+NOTE: MAKE SURE THE IMAGES (.png) ARE INSIDE THE GAME FOLDER.
+
+Now you can play your game! 
+
+If you don't know about the rules, there are instructions present inside the game, just click on "Read Instructions" button to view the instructions of the game.

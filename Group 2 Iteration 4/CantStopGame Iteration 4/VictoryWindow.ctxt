@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=VictoryWindow
+comment1.params=player\ game
+comment1.target=VictoryWindow(Player,\ CantStopGame)
+comment2.params=e
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

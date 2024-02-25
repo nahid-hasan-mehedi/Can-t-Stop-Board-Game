@@ -1,0 +1,4 @@
+In our Logical Architecture Diagram we have a command package listed
+even though it is not implemented in our minor release. We decided on this
+decision late into Iteration 3 and will be implementing the Command Structure
+in Iteration 4. Apologies for the inconsistency.
